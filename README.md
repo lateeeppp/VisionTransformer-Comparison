@@ -1,5 +1,7 @@
 # Vision Transformer Comparison
 
+Link Notebook: [Colab](https://colab.research.google.com/drive/1kCLCswlMAkETYtmnJLnLnyhual20CqZc?usp=sharing)
+
 Cara Menjalankan Kode
 Repository ini berisi satu notebook utama (**122140137_Ikhsannudin Lathief_VisionTransformer.ipynb**) yang melakukan seluruh proses:
 - Load dataset
