@@ -27,7 +27,7 @@ Notebook ini bersifat **end-to-end**, sehingga tidak membutuhkan file Python tam
 pip install -r requirements.txt
 ```
 
-2. Download dataset Indonesian Food Classification.
+2. Download dataset Indonesian Food Classification [Link](https://s.itera.id/if25-40401-comp)
 
 ## 2. Struktur Dataset
 
