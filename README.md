@@ -1,5 +1,7 @@
 # Vision Transformer Comparison
 
+Dataset: Indonesia Food Classification [Download](https://s.itera.id/if25-40401-comp)
+
 Link Notebook: [Colab](https://colab.research.google.com/drive/1kCLCswlMAkETYtmnJLnLnyhual20CqZc?usp=sharing)
 
 Cara Menjalankan Kode
