@@ -21,11 +21,13 @@ Notebook ini bersifat **end-to-end**, sehingga tidak membutuhkan file Python tam
 
 ## 1. Persiapan Lingkungan
 
-Install dependency:
+1. Install dependency:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+2. Download dataset Indonesian Food Classification.
 
 ## 2. Struktur Dataset
 
