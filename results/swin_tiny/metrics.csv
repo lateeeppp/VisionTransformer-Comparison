@@ -1,0 +1,8 @@
+model,type,class,precision,recall,f1,support,accuracy_overall
+Swin-Tiny,per_class,nasi_goreng,1.0,1.0,1.0,35,1.0
+Swin-Tiny,per_class,rendang,1.0,1.0,1.0,34,1.0
+Swin-Tiny,per_class,soto_ayam,1.0,1.0,1.0,32,1.0
+Swin-Tiny,per_class,bakso,1.0,1.0,1.0,33,1.0
+Swin-Tiny,per_class,gado_gado,1.0,1.0,1.0,32,1.0
+Swin-Tiny,macro_avg,macro_avg,1.0,1.0,1.0,166,1.0
+Swin-Tiny,weighted_avg,weighted_avg,1.0,1.0,1.0,166,1.0
