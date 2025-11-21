@@ -74,4 +74,4 @@ Model weights disimpan di:
 ```php-template
 weights/<nama_model>_best.pth
 ```
-(Model weightd tidak bisa diupload ke github karena ukurannya yang terlalu besar)
+(Model weights tidak bisa diupload ke github karena ukurannya yang terlalu besar)
